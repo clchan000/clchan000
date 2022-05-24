@@ -1,6 +1,9 @@
-### Hi there 👋
 
-- new
+### Contact
+
+- E-mail: clchan000@gmail.com
+- Youtube: https://www.youtube.com/channel/UCjaDA_6JiyKCdbwLjiAjZTg
+
 
 <!--
 **clchan000/clchan000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
